@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 union union_endian{
 char c;
 short s;
